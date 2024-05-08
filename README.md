@@ -6,5 +6,5 @@ This the refactored code for a DegreeAudit application made using JavaFX. I coll
 ### Link to Original
 Finished App:
 https://github.com/AlexRishmawi/degreeauditGUI
-BackEnd:
+/nBackEnd:
 https://github.com/AlexRishmawi/DegreeAudit
